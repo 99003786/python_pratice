@@ -1,0 +1,6 @@
+x=int(5.5)
+print(x,"\n")
+x=float(5)
+print(x,"\n")
+x=str(55)
+print(x,"\n")
