@@ -1,0 +1,6 @@
+thistuple=("bus","car","bike","cycle","tank")
+print(thistuple[-1])
+print(thistuple[4])
+print(thistuple[0])
+print(thistuple[-2])
+print(thistuple[2])
